@@ -8,7 +8,7 @@ Summary:	Pattern matching and various utilities for file systems paths
 Summary(pl.UTF-8):	Dopasowywanie wzorców i różne narzędzia do ścieżek w systemie plików
 Name:		python-pathtools
 Version:	0.1.2
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pathtools/
